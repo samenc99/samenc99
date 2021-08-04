@@ -29,6 +29,5 @@
   
 ##
   
-<div> 
   ![Snake animation](https://github.com/samenc99/samenc99/blob/output/github-contribution-grid-snake.svg)
-</div>
+
