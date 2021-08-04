@@ -1,4 +1,14 @@
 ## Olá! Eu sou Samuel Pires Mateus
+<div>
+ <p>Estou há procura de uma oportunidade para demonstrar e desenvolver minhas habilidades contribuindo para o crescimento de sua empresa!</p>
+ <p>Fique a vontade para me contatar.</p>
+ <a href = "mailto:mateus.enc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-pires-mateus-a975b1203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://web.whatsapp.com/send?phone=5548988110866" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+</div>
+
+##
+
  <div>
   <a href="http://samuelmateus.surge.sh">
   <img height="180em" width="49%"src="https://github-readme-stats.vercel.app/api?username=samenc99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,9 +30,5 @@
 ##
   
 <div> 
-  <a href = "mailto:mateus.enc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-pires-mateus-a975b1203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/samenc99/samenc99/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
