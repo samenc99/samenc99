@@ -1,5 +1,6 @@
 ## Olá! Eu sou Samuel Pires Mateus
 <div>
+ <p>Desenvolvedor full stack no Controlle</p>
  <p>Fique a vontade para me contatar.</p>
  <a href = "mailto:mateus.enc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-pires-mateus-a975b1203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
